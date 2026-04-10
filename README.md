@@ -14,7 +14,6 @@
 ![](https://streak-stats.demolab.com?user=tanishapakki&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishapakki&layout=compact&theme=dark)
-### 🔝 Top Contributed Repo
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishapakki&theme=github_dark)
 
 ---
