@@ -15,9 +15,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishapakki&layout=compact&theme=dark)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tanishapakki&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishapakki&theme=github_dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanishapakki&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=tanishapakki&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
