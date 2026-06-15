@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Tanisha 👩‍💻<br><br>I build things that ship — from AI-powered legal aid tools for women's safety to full-stack HRMS and admin platforms used by real businesses. I'm comfortable across the stack: React/Next.js frontends, Python/FastAPI backends, Flutter apps, and ML pipelines.<br><br>- 🔭 I'm currently working on: an HRMS platform @ Print Electronics & Equipments Pvt. Ltd. (Flutter)<br>- 🌱 I'm currently learning: Flutter, advanced ML fine-tuning<br>- 👯 I'm looking to collaborate on: impactful full-stack or AI/ML projects
+# Hi, I'm Tanisha 👩‍💻<br><br>I build things that ship — from AI-powered legal aid tools for women's safety to full-stack HRMS and admin platforms used by real businesses. I'm comfortable across the stack: React/Next.js frontends, Python/FastAPI backends, Flutter apps, and ML pipelines.<br><br>- 🔭 I'm currently working on: an HRMS platform @ Print Electronics & Equipments Pvt. Ltd. (Flutter)<br>- 🌱 I'm currently learning: Flutter, advanced ML fine-tuning<br>- 👯 I'm looking to collaborate on: impactful full-stack or AI/ML projects
 
 
 ## 🌐 Socials:
